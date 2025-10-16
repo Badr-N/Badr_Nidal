@@ -44,7 +44,7 @@ I enjoy building applications with **C#**, **Java**, and **SQL** databases, and 
 
 ---
 
-## 🇩🇪 Über mich (Deutsch)
+## Über mich (Deutsch)
 Ich bin ein angehender **Fachinformatiker für Anwendungsentwicklung** mit Kenntnissen in  
 **C#, Java, SQL, Linux und Netzwerksicherheit**.  
 Ich interessiere mich besonders für die Entwicklung von Softwarelösungen und die sichere IT-Infrastruktur.  
